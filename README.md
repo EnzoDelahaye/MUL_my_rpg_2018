@@ -28,4 +28,8 @@ DESCRIPTION :
 OPTION : 
 ./my_rpg [-f] for launch game with girl character
 
+**************
+
+![Quick Preview](Menu.png)
+
 Click for [Game Preview](https://drive.google.com/file/d/1CreV9VL4vBqMjx1jh6zoBmr5XYI-E2S7/view?usp=sharing)
