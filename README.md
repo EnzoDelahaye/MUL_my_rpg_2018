@@ -3,7 +3,7 @@ Réalisation d'un jeu en C (lib SFML) type RPG, réalisation des graphismes.
 
 
 ************************************************
-BIENVENUE SUR NOTRE RPG EPITECH
+##BIENVENUE SUR NOTRE RPG EPITECH
 
 DESCRIPTION : 
 -Lancez le jeu et suivez les instructions.
@@ -17,7 +17,7 @@ OPTION :
 ./my_rpg [-f] pour lancer le jeu avec un personnage féminin
 
 ************************************************
-WELCOME TO THE MY_RPG GAME
+##WELCOME TO THE MY_RPG GAME
 
 DESCRIPTION : 
 -Start the game and follow the instructions.
