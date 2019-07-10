@@ -13,7 +13,7 @@ DESCRIPTION :
 - Ouvrez le menu avec la touche 'ESC'.
 - Quittez le jeu avec la touche 'Q'.
 
-OPTION : 
+UTILISATION : 
 ./my_rpg [-f] pour lancer le jeu avec un personnage féminin
 
 ## WELCOME TO THE MY_RPG GAME
@@ -26,7 +26,7 @@ DESCRIPTION :
 - Open the menu with 'ESC'.
 - Quit thanks to 'Q'.
 
-OPTION : 
+USAGE : 
 ./my_rpg [-f] for launch game with girl character
 
 **************
