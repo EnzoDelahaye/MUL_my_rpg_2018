@@ -1,6 +1,7 @@
 # MUL_my_rpg_2018
 Réalisation d'un jeu en C (lib SFML) type RPG, réalisation des graphismes.
 
+En collaboration avec [Maxime Demurger](https://www.linkedin.com/in/maxime-demurger-12a18b17b/?originalSubdomain=fr)
 
 ## BIENVENUE SUR NOTRE RPG EPITECH
 
