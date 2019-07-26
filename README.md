@@ -7,9 +7,9 @@ En collaboration avec [Maxime Demurger](https://www.linkedin.com/in/maxime-demur
 
 DESCRIPTION : 
 - Lancez le jeu et suivez les instructions.
-- Vous devez retrouver les carte perdues.
+- Vous devez retrouver les cartes perdues.
 - Pour interragir (pour parler ou attaquer un pnj) appuyer sur 'A'.
-- Marchez et drigigez vous avec les flèches du clavier.
+- Marchez et dirigez vous avec les flèches du clavier.
 - Ouvrez le menu avec la touche 'ESC'.
 - Quittez le jeu avec la touche 'Q'.
 
